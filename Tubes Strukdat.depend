@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1641617916 source:c:\users\live9\documents\kuliah\semester 3\materi\struktur data\tubes strukdat\main.cpp
+	"tubes.h"
+	<iostream>
+
+1641578005 c:\users\live9\documents\kuliah\semester 3\materi\struktur data\tubes strukdat\tubes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<iostream>
+
+1641577920 source:c:\users\live9\documents\kuliah\semester 3\materi\struktur data\tubes strukdat\tubes.cpp
+	"tubes.h"
+
+1641990079 source:c:\users\live9\documents\tubes strukdat\main.cpp
+	"tubes.h"
+	<iostream>
+
+1641991057 c:\users\live9\documents\tubes strukdat\tubes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<iostream>
+
+1641991055 source:c:\users\live9\documents\tubes strukdat\tubes.cpp
+	"tubes.h"
+
